@@ -1,0 +1,10 @@
+{
+  "name": "nodechallenge",
+  "version": "1.0.0",
+  "description": "Challenge Node.js - Rooftop",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Juan Emiliano Monzón Carrillo Pardo"
+}
